@@ -13,8 +13,8 @@ To Create a project on Time series analysis on weather forecasting using ARIMA m
 7. Evaluate model predictions
 ### PROGRAM:
 ```
-Developed By: G Venkata Pavan Kumar
-Reg.No:212221240013
+Developed By: J Kiran
+Reg.No:212221240022
 ```
 #### Import the neccessary packages
 
